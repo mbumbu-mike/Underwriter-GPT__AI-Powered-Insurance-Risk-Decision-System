@@ -210,21 +210,8 @@ streamlit run app/streamlit_app.py
 * Advanced feature engineering
 * Multi-model ensemble
 * Deployment with scalable infrastructure
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
----
-
-## 📜 License
-
-MIT License
-
 ---
 
 ## 👤 Author
 
-Your Name
+Mickey
